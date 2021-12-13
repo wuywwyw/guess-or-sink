@@ -1,0 +1,831 @@
+------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------
+all correct guesses
+------------------------------------------------------------------------------------------------------------------------
+Welcome to CS1A console game!
+What would you like to do?
+	1. Play Guess or Sink with Programming Topics category
+	2. Play Guess or Sink with Super Heros Category
+	3. Play Guess or Sink with Colors category
+	q. Quit
+Enter your selection:
+3
+Let's play Guess or Sink!
+                        |       |
+                     3--|--3 3--|--3
+                     3--|--3 3--|--3
+                     3--|--3 3--|--3
+                  \-----|-------|-----//
+                   \__YW_____________//
+----------------------------------------------------------
+ ^^^^^          ^^^^^          ^^^^^          ^^^^^
+         ^^^^^         ^^^^^          ^^^^^          ^^^^^
+
+To save the ship from sinking, your job is to guess the 5 letter word: _ _ _ _ _
+Enter your guess #1:
+e
+Correct!
+
+_ _ _ e _
+Enter your guess #2:
+a
+Correct!
+
+_ a _ e _
+Enter your guess #3:
+c
+Correct!
+
+c a _ e _
+Enter your guess #4:
+d
+Incorrect guess!
+                        |       |
+                     3--|--3 3--|--3
+                     3--|--3 3--|--3
+                     3--|--3 3--|--3
+                  \-----|-------|-----//
+----------------------------------------------------------
+ ^^^^^          ^^^^^          ^^^^^          ^^^^^
+         ^^^^^         ^^^^^          ^^^^^          ^^^^^
+
+Enter your guess #5:
+m
+Correct!
+
+c a m e _
+Enter your guess #6:
+l
+Correct!
+
+c a m e l
+You saved the day! The word is: Camel
+                        |       |
+                     3--|--3 3--|--3
+                     3--|--3 3--|--3
+                     3--|--3 3--|--3
+                  \-----|-------|-----//
+----------------------------------------------------------
+ ^^^^^          ^^^^^          ^^^^^          ^^^^^
+         ^^^^^         ^^^^^          ^^^^^          ^^^^^
+
+Game Over
+Your current score is 1
+What would you like to do?
+	1. Play Guess or Sink with Programming Topics category
+	2. Play Guess or Sink with Super Heros Category
+	3. Play Guess or Sink with Colors category
+	q. Quit
+Enter your selection:
+3
+Let's play Guess or Sink!
+                        |       |
+                     3--|--3 3--|--3
+                     3--|--3 3--|--3
+                     3--|--3 3--|--3
+                  \-----|-------|-----//
+                   \__YW_____________//
+----------------------------------------------------------
+ ^^^^^          ^^^^^          ^^^^^          ^^^^^
+         ^^^^^         ^^^^^          ^^^^^          ^^^^^
+
+To save the ship from sinking, your job is to guess the 5 letter word: _ _ _ _ _
+Enter your guess #1:
+e
+Correct!
+
+_ _ _ _ e
+Enter your guess #2:
+b
+Incorrect guess!
+                        |       |
+                     3--|--3 3--|--3
+                     3--|--3 3--|--3
+                     3--|--3 3--|--3
+                  \-----|-------|-----//
+----------------------------------------------------------
+ ^^^^^          ^^^^^          ^^^^^          ^^^^^
+         ^^^^^         ^^^^^          ^^^^^          ^^^^^
+
+Enter your guess #3:
+m
+Correct!
+
+m _ _ _ e
+Enter your guess #4:
+a
+Correct!
+
+m a _ _ e
+Enter your guess #5:
+u
+Correct!
+
+m a u _ e
+Enter your guess #6:
+v
+Correct!
+
+m a u v e
+You saved the day! The word is: Mauve
+                        |       |
+                     3--|--3 3--|--3
+                     3--|--3 3--|--3
+                     3--|--3 3--|--3
+                  \-----|-------|-----//
+----------------------------------------------------------
+ ^^^^^          ^^^^^          ^^^^^          ^^^^^
+         ^^^^^         ^^^^^          ^^^^^          ^^^^^
+
+Game Over
+Your current score is 2
+What would you like to do?
+	1. Play Guess or Sink with Programming Topics category
+	2. Play Guess or Sink with Super Heros Category
+	3. Play Guess or Sink with Colors category
+	q. Quit
+Enter your selection:
+q
+Your score is 2 out of 2
+Goodbye.
+
+Process finished with exit code 0
+
+
+
+
+
+
+
+------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------
+all wrong guesses
+------------------------------------------------------------------------------------------------------------------------
+Welcome to CS1A console game!
+What would you like to do?
+	1. Play Guess or Sink with Programming Topics category
+	2. Play Guess or Sink with Super Heros Category
+	3. Play Guess or Sink with Colors category
+	q. Quit
+Enter your selection:
+2
+Let's play Guess or Sink!
+                        |       |
+                     3--|--3 3--|--3
+                     3--|--3 3--|--3
+                     3--|--3 3--|--3
+                     3--|--3 3--|--3
+                     3--|--3 3--|--3
+                     3--|--3 3--|--3
+                     3--|--3 3--|--3
+                  \-----|-------|-----//
+                   \__YW_____________//
+----------------------------------------------------------
+ ^^^^^          ^^^^^          ^^^^^          ^^^^^
+         ^^^^^         ^^^^^          ^^^^^          ^^^^^
+
+To save the ship from sinking, your job is to guess the 9 letter word: _ _ _ _ _ _ _ _ _
+Enter your guess #1:
+q
+Incorrect guess!
+                        |       |
+                     3--|--3 3--|--3
+                     3--|--3 3--|--3
+                     3--|--3 3--|--3
+                     3--|--3 3--|--3
+                     3--|--3 3--|--3
+                     3--|--3 3--|--3
+                     3--|--3 3--|--3
+                  \-----|-------|-----//
+----------------------------------------------------------
+ ^^^^^          ^^^^^          ^^^^^          ^^^^^
+         ^^^^^         ^^^^^          ^^^^^          ^^^^^
+
+Enter your guess #2:
+z
+Incorrect guess!
+                        |       |
+                     3--|--3 3--|--3
+                     3--|--3 3--|--3
+                     3--|--3 3--|--3
+                     3--|--3 3--|--3
+                     3--|--3 3--|--3
+                     3--|--3 3--|--3
+                     3--|--3 3--|--3
+----------------------------------------------------------
+ ^^^^^          ^^^^^          ^^^^^          ^^^^^
+         ^^^^^         ^^^^^          ^^^^^          ^^^^^
+
+Enter your guess #3:
+z
+Incorrect guess!
+                        |       |
+                     3--|--3 3--|--3
+                     3--|--3 3--|--3
+                     3--|--3 3--|--3
+                     3--|--3 3--|--3
+                     3--|--3 3--|--3
+                     3--|--3 3--|--3
+----------------------------------------------------------
+ ^^^^^          ^^^^^          ^^^^^          ^^^^^
+         ^^^^^         ^^^^^          ^^^^^          ^^^^^
+
+Enter your guess #4:
+z
+Incorrect guess!
+                        |       |
+                     3--|--3 3--|--3
+                     3--|--3 3--|--3
+                     3--|--3 3--|--3
+                     3--|--3 3--|--3
+                     3--|--3 3--|--3
+----------------------------------------------------------
+ ^^^^^          ^^^^^          ^^^^^          ^^^^^
+         ^^^^^         ^^^^^          ^^^^^          ^^^^^
+
+Enter your guess #5:
+z
+Incorrect guess!
+                        |       |
+                     3--|--3 3--|--3
+                     3--|--3 3--|--3
+                     3--|--3 3--|--3
+                     3--|--3 3--|--3
+----------------------------------------------------------
+ ^^^^^          ^^^^^          ^^^^^          ^^^^^
+         ^^^^^         ^^^^^          ^^^^^          ^^^^^
+
+Enter your guess #6:
+z
+Incorrect guess!
+                        |       |
+                     3--|--3 3--|--3
+                     3--|--3 3--|--3
+                     3--|--3 3--|--3
+----------------------------------------------------------
+ ^^^^^          ^^^^^          ^^^^^          ^^^^^
+         ^^^^^         ^^^^^          ^^^^^          ^^^^^
+
+Enter your guess #7:
+z
+Incorrect guess!
+                        |       |
+                     3--|--3 3--|--3
+                     3--|--3 3--|--3
+----------------------------------------------------------
+ ^^^^^          ^^^^^          ^^^^^          ^^^^^
+         ^^^^^         ^^^^^          ^^^^^          ^^^^^
+
+Enter your guess #8:
+z
+Incorrect guess!
+                        |       |
+                     3--|--3 3--|--3
+----------------------------------------------------------
+ ^^^^^          ^^^^^          ^^^^^          ^^^^^
+         ^^^^^         ^^^^^          ^^^^^          ^^^^^
+
+Enter your guess #9:
+z
+Incorrect guess!
+                        |       |
+----------------------------------------------------------
+ ^^^^^          ^^^^^          ^^^^^          ^^^^^
+         ^^^^^         ^^^^^          ^^^^^          ^^^^^
+
+Enter your guess #10:
+z
+Incorrect guess!
+----------------------------------------------------------
+ ^^^^^          ^^^^^          ^^^^^          ^^^^^
+         ^^^^^         ^^^^^          ^^^^^          ^^^^^
+
+The ship has sunk! The word is: Excalibur
+----------------------------------------------------------
+ ^^^^^          ^^^^^          ^^^^^          ^^^^^
+         ^^^^^         ^^^^^          ^^^^^          ^^^^^
+
+Game Over
+Your current score is 0
+What would you like to do?
+	1. Play Guess or Sink with Programming Topics category
+	2. Play Guess or Sink with Super Heros Category
+	3. Play Guess or Sink with Colors category
+	q. Quit
+Enter your selection:
+2
+Let's play Guess or Sink!
+                        |       |
+                     3--|--3 3--|--3
+                     3--|--3 3--|--3
+                     3--|--3 3--|--3
+                     3--|--3 3--|--3
+                     3--|--3 3--|--3
+                  \-----|-------|-----//
+                   \__YW_____________//
+----------------------------------------------------------
+ ^^^^^          ^^^^^          ^^^^^          ^^^^^
+         ^^^^^         ^^^^^          ^^^^^          ^^^^^
+
+To save the ship from sinking, your job is to guess the 7 letter word: _ _ _ _ _ _ _
+Enter your guess #1:
+m
+Incorrect guess!
+                        |       |
+                     3--|--3 3--|--3
+                     3--|--3 3--|--3
+                     3--|--3 3--|--3
+                     3--|--3 3--|--3
+                     3--|--3 3--|--3
+                  \-----|-------|-----//
+----------------------------------------------------------
+ ^^^^^          ^^^^^          ^^^^^          ^^^^^
+         ^^^^^         ^^^^^          ^^^^^          ^^^^^
+
+Enter your guess #2:
+m
+Incorrect guess!
+                        |       |
+                     3--|--3 3--|--3
+                     3--|--3 3--|--3
+                     3--|--3 3--|--3
+                     3--|--3 3--|--3
+                     3--|--3 3--|--3
+----------------------------------------------------------
+ ^^^^^          ^^^^^          ^^^^^          ^^^^^
+         ^^^^^         ^^^^^          ^^^^^          ^^^^^
+
+Enter your guess #3:
+m
+Incorrect guess!
+                        |       |
+                     3--|--3 3--|--3
+                     3--|--3 3--|--3
+                     3--|--3 3--|--3
+                     3--|--3 3--|--3
+----------------------------------------------------------
+ ^^^^^          ^^^^^          ^^^^^          ^^^^^
+         ^^^^^         ^^^^^          ^^^^^          ^^^^^
+
+Enter your guess #4:
+p
+Correct!
+
+_ _ _ _ p _ _
+Enter your guess #5:
+l
+Correct!
+
+_ _ l _ p _ _
+Enter your guess #6:
+m
+Incorrect guess!
+                        |       |
+                     3--|--3 3--|--3
+                     3--|--3 3--|--3
+                     3--|--3 3--|--3
+----------------------------------------------------------
+ ^^^^^          ^^^^^          ^^^^^          ^^^^^
+         ^^^^^         ^^^^^          ^^^^^          ^^^^^
+
+Enter your guess #7:
+m
+Incorrect guess!
+                        |       |
+                     3--|--3 3--|--3
+                     3--|--3 3--|--3
+----------------------------------------------------------
+ ^^^^^          ^^^^^          ^^^^^          ^^^^^
+         ^^^^^         ^^^^^          ^^^^^          ^^^^^
+
+Enter your guess #8:
+z
+Incorrect guess!
+                        |       |
+                     3--|--3 3--|--3
+----------------------------------------------------------
+ ^^^^^          ^^^^^          ^^^^^          ^^^^^
+         ^^^^^         ^^^^^          ^^^^^          ^^^^^
+
+The ship has sunk! The word is: Calypso
+----------------------------------------------------------
+ ^^^^^          ^^^^^          ^^^^^          ^^^^^
+         ^^^^^         ^^^^^          ^^^^^          ^^^^^
+
+Game Over
+Your current score is 0
+What would you like to do?
+	1. Play Guess or Sink with Programming Topics category
+	2. Play Guess or Sink with Super Heros Category
+	3. Play Guess or Sink with Colors category
+	q. Quit
+Enter your selection:
+q
+Your score is 0 out of 2
+Goodbye.
+
+Process finished with exit code 0
+
+
+
+
+
+
+
+
+------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------
+mix of correct and wrong guesses
+------------------------------------------------------------------------------------------------------------------------
+Welcome to CS1A console game!
+What would you like to do?
+	1. Play Guess or Sink with Programming Topics category
+	2. Play Guess or Sink with Super Heros Category
+	3. Play Guess or Sink with Colors category
+	q. Quit
+Enter your selection:
+1
+Let's play Guess or Sink!
+                        |       |
+                     3--|--3 3--|--3
+                     3--|--3 3--|--3
+                     3--|--3 3--|--3
+                     3--|--3 3--|--3
+                     3--|--3 3--|--3
+                     3--|--3 3--|--3
+                     3--|--3 3--|--3
+                     3--|--3 3--|--3
+                     3--|--3 3--|--3
+                  \-----|-------|-----//
+                   \__YW_____________//
+----------------------------------------------------------
+ ^^^^^          ^^^^^          ^^^^^          ^^^^^
+         ^^^^^         ^^^^^          ^^^^^          ^^^^^
+
+To save the ship from sinking, your job is to guess the 11 letter word: _ _ _ _ _ _ _ _ _ _ _
+Enter your guess #1:
+z
+Incorrect guess!
+                        |       |
+                     3--|--3 3--|--3
+                     3--|--3 3--|--3
+                     3--|--3 3--|--3
+                     3--|--3 3--|--3
+                     3--|--3 3--|--3
+                     3--|--3 3--|--3
+                     3--|--3 3--|--3
+                     3--|--3 3--|--3
+                     3--|--3 3--|--3
+                  \-----|-------|-----//
+----------------------------------------------------------
+ ^^^^^          ^^^^^          ^^^^^          ^^^^^
+         ^^^^^         ^^^^^          ^^^^^          ^^^^^
+
+Enter your guess #2:
+z
+Incorrect guess!
+                        |       |
+                     3--|--3 3--|--3
+                     3--|--3 3--|--3
+                     3--|--3 3--|--3
+                     3--|--3 3--|--3
+                     3--|--3 3--|--3
+                     3--|--3 3--|--3
+                     3--|--3 3--|--3
+                     3--|--3 3--|--3
+                     3--|--3 3--|--3
+----------------------------------------------------------
+ ^^^^^          ^^^^^          ^^^^^          ^^^^^
+         ^^^^^         ^^^^^          ^^^^^          ^^^^^
+
+Enter your guess #3:
+z
+Incorrect guess!
+                        |       |
+                     3--|--3 3--|--3
+                     3--|--3 3--|--3
+                     3--|--3 3--|--3
+                     3--|--3 3--|--3
+                     3--|--3 3--|--3
+                     3--|--3 3--|--3
+                     3--|--3 3--|--3
+                     3--|--3 3--|--3
+----------------------------------------------------------
+ ^^^^^          ^^^^^          ^^^^^          ^^^^^
+         ^^^^^         ^^^^^          ^^^^^          ^^^^^
+
+Enter your guess #4:
+z
+Incorrect guess!
+                        |       |
+                     3--|--3 3--|--3
+                     3--|--3 3--|--3
+                     3--|--3 3--|--3
+                     3--|--3 3--|--3
+                     3--|--3 3--|--3
+                     3--|--3 3--|--3
+                     3--|--3 3--|--3
+----------------------------------------------------------
+ ^^^^^          ^^^^^          ^^^^^          ^^^^^
+         ^^^^^         ^^^^^          ^^^^^          ^^^^^
+
+Enter your guess #5:
+z
+Incorrect guess!
+                        |       |
+                     3--|--3 3--|--3
+                     3--|--3 3--|--3
+                     3--|--3 3--|--3
+                     3--|--3 3--|--3
+                     3--|--3 3--|--3
+                     3--|--3 3--|--3
+----------------------------------------------------------
+ ^^^^^          ^^^^^          ^^^^^          ^^^^^
+         ^^^^^         ^^^^^          ^^^^^          ^^^^^
+
+Enter your guess #6:
+z
+Incorrect guess!
+                        |       |
+                     3--|--3 3--|--3
+                     3--|--3 3--|--3
+                     3--|--3 3--|--3
+                     3--|--3 3--|--3
+                     3--|--3 3--|--3
+----------------------------------------------------------
+ ^^^^^          ^^^^^          ^^^^^          ^^^^^
+         ^^^^^         ^^^^^          ^^^^^          ^^^^^
+
+Enter your guess #7:
+z
+Incorrect guess!
+                        |       |
+                     3--|--3 3--|--3
+                     3--|--3 3--|--3
+                     3--|--3 3--|--3
+                     3--|--3 3--|--3
+----------------------------------------------------------
+ ^^^^^          ^^^^^          ^^^^^          ^^^^^
+         ^^^^^         ^^^^^          ^^^^^          ^^^^^
+
+Enter your guess #8:
+z
+Incorrect guess!
+                        |       |
+                     3--|--3 3--|--3
+                     3--|--3 3--|--3
+                     3--|--3 3--|--3
+----------------------------------------------------------
+ ^^^^^          ^^^^^          ^^^^^          ^^^^^
+         ^^^^^         ^^^^^          ^^^^^          ^^^^^
+
+Enter your guess #9:
+z
+Incorrect guess!
+                        |       |
+                     3--|--3 3--|--3
+                     3--|--3 3--|--3
+----------------------------------------------------------
+ ^^^^^          ^^^^^          ^^^^^          ^^^^^
+         ^^^^^         ^^^^^          ^^^^^          ^^^^^
+
+Enter your guess #10:
+z
+Incorrect guess!
+                        |       |
+                     3--|--3 3--|--3
+----------------------------------------------------------
+ ^^^^^          ^^^^^          ^^^^^          ^^^^^
+         ^^^^^         ^^^^^          ^^^^^          ^^^^^
+
+Enter your guess #11:
+z
+Incorrect guess!
+                        |       |
+----------------------------------------------------------
+ ^^^^^          ^^^^^          ^^^^^          ^^^^^
+         ^^^^^         ^^^^^          ^^^^^          ^^^^^
+
+Enter your guess #12:
+z
+Incorrect guess!
+----------------------------------------------------------
+ ^^^^^          ^^^^^          ^^^^^          ^^^^^
+         ^^^^^         ^^^^^          ^^^^^          ^^^^^
+
+The ship has sunk! The word is: overloading
+----------------------------------------------------------
+ ^^^^^          ^^^^^          ^^^^^          ^^^^^
+         ^^^^^         ^^^^^          ^^^^^          ^^^^^
+
+Game Over
+Your current score is 0
+What would you like to do?
+	1. Play Guess or Sink with Programming Topics category
+	2. Play Guess or Sink with Super Heros Category
+	3. Play Guess or Sink with Colors category
+	q. Quit
+Enter your selection:
+1
+Let's play Guess or Sink!
+                        |       |
+                     3--|--3 3--|--3
+                     3--|--3 3--|--3
+                     3--|--3 3--|--3
+                     3--|--3 3--|--3
+                  \-----|-------|-----//
+                   \__YW_____________//
+----------------------------------------------------------
+ ^^^^^          ^^^^^          ^^^^^          ^^^^^
+         ^^^^^         ^^^^^          ^^^^^          ^^^^^
+
+To save the ship from sinking, your job is to guess the 6 letter word: _ _ _ _ _ _
+Enter your guess #1:
+a
+Correct!
+
+a _ _ a _ _
+Enter your guess #2:
+r
+Correct!
+
+a r r a _ _
+Enter your guess #3:
+y
+Correct!
+
+a r r a y _
+Enter your guess #4:
+s
+Correct!
+
+a r r a y s
+You saved the day! The word is: arrays
+                        |       |
+                     3--|--3 3--|--3
+                     3--|--3 3--|--3
+                     3--|--3 3--|--3
+                     3--|--3 3--|--3
+                  \-----|-------|-----//
+                   \__YW_____________//
+----------------------------------------------------------
+ ^^^^^          ^^^^^          ^^^^^          ^^^^^
+         ^^^^^         ^^^^^          ^^^^^          ^^^^^
+
+Game Over
+Your current score is 1
+What would you like to do?
+	1. Play Guess or Sink with Programming Topics category
+	2. Play Guess or Sink with Super Heros Category
+	3. Play Guess or Sink with Colors category
+	q. Quit
+Enter your selection:
+q
+Your score is 1 out of 2
+Goodbye.
+
+Process finished with exit code 0
+
+
+
+
+
+------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------
+user plays with different categories
+------------------------------------------------------------------------------------------------------------------------
+Welcome to CS1A console game!
+What would you like to do?
+	1. Play Guess or Sink with Programming Topics category
+	2. Play Guess or Sink with Super Heros Category
+	3. Play Guess or Sink with Colors category
+	q. Quit
+Enter your selection:
+1
+Let's play Guess or Sink!
+                        |       |
+                     3--|--3 3--|--3
+                     3--|--3 3--|--3
+                     3--|--3 3--|--3
+                     3--|--3 3--|--3
+                  \-----|-------|-----//
+                   \__YW_____________//
+----------------------------------------------------------
+ ^^^^^          ^^^^^          ^^^^^          ^^^^^
+         ^^^^^         ^^^^^          ^^^^^          ^^^^^
+
+To save the ship from sinking, your job is to guess the 6 letter word: _ _ _ _ _ _
+Enter your guess #1:
+a
+Correct!
+
+a _ _ a _ _
+Enter your guess #2:
+r
+Correct!
+
+a r r a _ _
+Enter your guess #3:
+y
+Correct!
+
+a r r a y _
+Enter your guess #4:
+s
+Correct!
+
+a r r a y s
+You saved the day! The word is: arrays
+                        |       |
+                     3--|--3 3--|--3
+                     3--|--3 3--|--3
+                     3--|--3 3--|--3
+                     3--|--3 3--|--3
+                  \-----|-------|-----//
+                   \__YW_____________//
+----------------------------------------------------------
+ ^^^^^          ^^^^^          ^^^^^          ^^^^^
+         ^^^^^         ^^^^^          ^^^^^          ^^^^^
+
+Game Over
+Your current score is 1
+What would you like to do?
+	1. Play Guess or Sink with Programming Topics category
+	2. Play Guess or Sink with Super Heros Category
+	3. Play Guess or Sink with Colors category
+	q. Quit
+Enter your selection:
+3
+Let's play Guess or Sink!
+                        |       |
+                     3--|--3 3--|--3
+                     3--|--3 3--|--3
+                  \-----|-------|-----//
+                   \__YW_____________//
+----------------------------------------------------------
+ ^^^^^          ^^^^^          ^^^^^          ^^^^^
+         ^^^^^         ^^^^^          ^^^^^          ^^^^^
+
+To save the ship from sinking, your job is to guess the 4 letter word: _ _ _ _
+Enter your guess #1:
+e
+Correct!
+
+_ _ _ e
+Enter your guess #2:
+z
+Incorrect guess!
+                        |       |
+                     3--|--3 3--|--3
+                     3--|--3 3--|--3
+                  \-----|-------|-----//
+----------------------------------------------------------
+ ^^^^^          ^^^^^          ^^^^^          ^^^^^
+         ^^^^^         ^^^^^          ^^^^^          ^^^^^
+
+Enter your guess #3:
+z
+Incorrect guess!
+                        |       |
+                     3--|--3 3--|--3
+                     3--|--3 3--|--3
+----------------------------------------------------------
+ ^^^^^          ^^^^^          ^^^^^          ^^^^^
+         ^^^^^         ^^^^^          ^^^^^          ^^^^^
+
+Enter your guess #4:
+z
+Incorrect guess!
+                        |       |
+                     3--|--3 3--|--3
+----------------------------------------------------------
+ ^^^^^          ^^^^^          ^^^^^          ^^^^^
+         ^^^^^         ^^^^^          ^^^^^          ^^^^^
+
+Enter your guess #5:
+z
+Incorrect guess!
+                        |       |
+----------------------------------------------------------
+ ^^^^^          ^^^^^          ^^^^^          ^^^^^
+         ^^^^^         ^^^^^          ^^^^^          ^^^^^
+
+The ship has sunk! The word is: Jade
+----------------------------------------------------------
+ ^^^^^          ^^^^^          ^^^^^          ^^^^^
+         ^^^^^         ^^^^^          ^^^^^          ^^^^^
+
+Game Over
+Your current score is 1
+What would you like to do?
+	1. Play Guess or Sink with Programming Topics category
+	2. Play Guess or Sink with Super Heros Category
+	3. Play Guess or Sink with Colors category
+	q. Quit
+Enter your selection:
+q
+Your score is 1 out of 2
+Goodbye.
+
+Process finished with exit code 0
+

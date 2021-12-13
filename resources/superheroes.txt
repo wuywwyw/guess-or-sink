@@ -1,0 +1,283 @@
+Number of words,282
+Abomination
+Acolytes
+Adam Warlock
+Ahab
+Angel
+Annihilus
+Ant Man
+Apocalypse
+Aquaman
+Arcade
+Archangel
+Avalanche
+Avalon
+Avengers
+Azrael
+Bane
+Banshee
+Baroness
+Batman
+Baxter Stockman
+Bazooka
+Beach Head
+Beast
+Bebop
+Beetle
+Beyonder
+Bionic Commando
+Bishop
+Bizarro
+Black Knight
+Black Panther
+Black Widow
+Blade
+Blink
+Blob
+Blood Wraith
+Brainiac
+Brood
+Bullseye
+Caliban
+Callisto
+Calypso
+Cannonball
+Captain Planet
+Cardiac
+Carnage
+Catwoman
+Cerise
+Cesspool
+Chameleon
+Cheetah
+Clan Destine
+Cloak and Dagger
+Cobra
+Colossus
+Copperhead
+Copycat
+Corsair
+Cyborg
+Cyclops
+Cypher
+Daredevil
+Dazzler
+Decepticon
+Devastator
+Diablo
+Doctor Doom
+Doctor Mindbender
+Doctor Octopus
+Doctor Strange
+Domino
+Donatello
+Doomsday
+Doppelganger
+Dreadnought
+Electro
+Elektra
+Enchantress
+Eradicator
+Excalibur
+Exodus
+Falcon
+Fenris
+Feral
+Firefly
+Flash
+Fleet Tracking
+Foot Soldier
+Forge
+Four Horsemen of Apocalypse
+Frenzy
+G.I. Joe
+Galactus
+Galvatron
+Gambit
+Gargoyles
+Generation X
+Gideon
+Gladiator
+Goliath
+Green Goblin
+Grim Reaper
+Guardian
+Guile
+Gung-Ho
+Harley Quinn
+Haven
+Havok
+Hawk
+Hawkeye
+Hellions
+Helspont
+Hobogoblin
+Holocaust
+Homer Simpson
+Hulk
+Huntress
+Husk
+HYDRA
+Iceman
+Impulse
+Iron Fist
+Jinx
+Joker
+Jubilee
+Juggernaut
+Kingpin
+Kraven
+Lamprey
+Leatherhead
+Leatherneck
+Leech
+Leonardo
+Lilith
+Living Tribunal
+Lizard
+Lobo
+Loki
+Longshot
+Maggott
+Magik
+Magneto
+Mandarin
+Marauders
+Marrow
+Marvel
+Masque
+Mastermind
+Maverick
+Medusa
+Mega Man
+Megatron
+Mephisto
+Mercer
+Michaelangelo
+Mimic
+Mirage
+Mister Fantastic
+Mister Freeze
+Mister Hyde
+Mister Sinister
+Mojo
+Mole Man
+Mondo Gecko
+Morbius
+Morg
+Muskrat
+Mysterio
+Mystique
+Namor
+Napoleon Bonafrog
+Nebula
+Nightcrawler
+Nimrod
+Nomad
+Northstar
+Nova
+Omega Red
+Onslaught
+Orion
+Panda Khan
+Parasite
+Penance
+Penguin
+Phalanx
+Phoenix
+Poison Ivy
+Polaris
+Proteus
+Prowler
+Psyche-Out
+Puma
+Punisher
+Pyro
+Quasar
+Quicksilver
+Rage
+Random
+Raphael
+Rat King
+Ravage 2099
+Ray Fillet
+Reavers
+Rhino
+Rictor
+Riddler
+Roadblock
+Robin
+Rogue
+Rumble
+Sabretooth
+Salacious Crumb
+Sandman
+Saracen
+Sasquatch
+Sauron
+Savage Land
+Scarecrow
+Scarlet Witch
+Scorpion
+Sentinel
+Serpentor
+Shazam
+Shiva
+Shockwave
+Shredder
+Siege
+Silver Samurai
+Silver Surfer
+Siryn
+Slapstick
+Sleepwalker
+Snake-Eyes
+Solo
+Spartan
+Spawn
+Speedball
+Spider-Man
+Spirit
+Steel
+Storm
+Stormtrooper
+Stryfe
+Sunspot
+Superman
+Synch
+Tempo
+Thanos
+Thing
+Thor
+Thunderbird
+Thunderbolts
+Tick
+Toad
+Tombstone
+Triceraton
+Two-Face
+Typhoid Mary
+Tyrant
+Ultron
+Union Jack
+Vengeance
+Venom
+Vertigo
+Vindicator
+Violator
+Viper
+Vision
+Vulture
+Warpath
+Wasp
+Weapon Omega
+Widget
+Wolfsbane
+Wolverine
+Wonder Woman
+Wrecker
+X-Cutioner
+X-Cutioner's Song
+X-Factor
+Xi'an
+Zealot

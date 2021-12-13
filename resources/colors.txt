@@ -1,0 +1,101 @@
+Number of words,100
+Amaranth
+Amber
+Amethyst
+Apricot
+Aquamarine
+Azure
+Beige
+Black
+Blue
+Blush
+Bronze
+Brown
+Burgundy
+Buff
+Burlywood
+Byzantium
+Carmine
+Cafe
+Cadet
+Camel
+Camine
+Cerise
+Cerulean
+Champagne
+Chartreuse green
+Chocolate
+Cobalt blue
+Coffee
+Copper
+Coral
+Crimson
+Cyan
+Desert sand
+Eggplant
+Electric blue
+Emerald
+Erin
+Fallow
+Fandango
+Fawn
+Gold
+Gray
+Green
+Grullo
+Harlequin
+Honeydew
+Indigo
+Iris
+Ivory
+Jade
+Jungle green
+Lava
+Lavender
+Lemon
+Lilac
+Lime
+Lion
+Magenta
+Magenta rose
+Maroon
+Mauve
+Navy blue
+Moccasin
+Ochre
+Olive
+Orange
+Orchid
+Peach
+Pear
+Peridot
+Periwinkle
+Persian blue
+Pink
+Plum
+Puce
+Pumpkin
+Purple
+Rackley
+Raspberry
+Razzmatazz
+Red
+Rose
+Ruby
+Ruddy
+Russet
+Rust
+Salmon
+Sangria
+Sapphire
+Scarlet
+Silver
+Tan
+Taupe
+Teal
+Turquoise
+Ultramarine
+Violet
+Viridian
+White
+Yellow
