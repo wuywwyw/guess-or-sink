@@ -6,8 +6,8 @@ src/GuessOrSink.java
     - A game in which the goal is for the user to guess a word to save a ship from sinking.
 
 src/Game.java
-    - Test class where we start the execution of the application.
-    - Extra credit: Create a third input file with a different category for words.
+    - Test class where to start the execution of the application.
+    - Create a third input file with a different category for words.
 
 src/Ship.java
     - Provides functionality for keeping track of the ship state.
